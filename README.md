@@ -57,10 +57,10 @@ Apesar de gostar da programação e dos desafios que enfrento, estou em <strong>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-cichocki" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chicoski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
   <a href="mailto:gabrielsamudiocichocki@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-gabrielsamudiocichocki@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-gabrielsamudiocichocki@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
