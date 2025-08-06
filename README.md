@@ -1,49 +1,66 @@
-# 👨‍💻 Gabriel Chicoski
+<h1 align="center">👨‍💻 Gabriel Chicoski</h1>
 
-🎯 Desenvolvedor focado em transição de carreira para Web Backend com Java
+<p align="center">🎯 Desenvolvedor focado em transição de carreira para Web Backend com Java</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Atualmente atuo como **Desenvolvedor Delphi** na **Viasoft**, contribuindo no desenvolvimento e manutenção de um ERP voltado ao varejo. Tenho experiência sólida com **Delphi**, **Oracle SQL** e **Git**, além de utilizar **Python** pontualmente para automatizar e otimizar tarefas do dia a dia.
+Atualmente atuo como <strong>Desenvolvedor Delphi</strong> na <strong>Viasoft</strong>, contribuindo no desenvolvimento e manutenção de um ERP voltado ao varejo. Tenho experiência sólida com <strong>Delphi</strong>, <strong>Oracle SQL</strong> e <strong>Git</strong>, além de utilizar <strong>Python</strong> pontualmente para automatizar e otimizar tarefas do dia a dia.
 
-Apesar de gostar da programação e dos desafios que enfrento, estou em **transição para o desenvolvimento web**, com foco inicial no **backend em Java** utilizando o ecossistema **Spring Boot**. Meu objetivo é evoluir como **desenvolvedor fullstack**, aprendendo **Angular** futuramente para complementar meu conjunto de habilidades.
+Apesar de gostar da programação e dos desafios que enfrento, estou em <strong>transição para o desenvolvimento web</strong>, com foco inicial no <strong>backend em Java</strong> utilizando o ecossistema <strong>Spring Boot</strong>. Meu objetivo é evoluir como <strong>desenvolvedor fullstack</strong>, aprendendo <strong>Angular</strong> futuramente para complementar meu conjunto de habilidades.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-### ✅ Experiência profissional com:
-- 💻 **Delphi**
-- 🛢️ **Oracle SQL**
-- 🗂️ **Git/GitHub**
-- 🐍 **Python (scripts internos e automações)**
+<div align="center">
 
-### 📚 Estudando atualmente:
-- ☕ **Java (orientação a objetos, APIs, boas práticas)**
-- 🌱 **Spring Boot (REST, JPA, segurança, testes, etc.)**
+<table>
+  <tr>
+    <th>💼 Profissional</th>
+    <th>📘 Estudando</th>
+    <th>📌 Planejando</th>
+  </tr>
+  <tr>
+    <td align="center">
+      💻 Delphi <br/>
+      🛢️ Oracle SQL <br/>
+      🗂️ Git / GitHub <br/>
+      🐍 Python (scripts)
+    </td>
+    <td align="center">
+      ☕ Java (POO, APIs, boas práticas) <br/>
+      🌱 Spring Boot (REST, JPA, Segurança, Testes)
+    </td>
+    <td align="center">
+      🧩 Angular <br/>
+      🌐 Arquitetura fullstack <br/>
+      📦 Docker, CI/CD, DevOps
+    </td>
+  </tr>
+</table>
 
-### 🎯 Planejando aprender:
-- 🧩 **Angular**
-- 🌐 **Arquitetura de aplicações web fullstack**
-- 📦 **Docker, CI/CD e boas práticas DevOps**
+</div>
 
 ---
 
 ## 💡 Objetivos
 
-- Transicionar para o mercado de **desenvolvimento web** com **Java + Spring Boot**
-- Aprimorar habilidades em **design de APIs REST**, boas práticas de **clean code** e **testes automatizados**
-- Evoluir para um papel de **desenvolvedor fullstack**, unindo **backend Java** com **frontend Angular**
+- Transicionar para o mercado de <strong>desenvolvimento web</strong> com <strong>Java + Spring Boot</strong>
+- Aprimorar habilidades em <strong>design de APIs REST</strong>, boas práticas de <strong>clean code</strong> e <strong>testes automatizados</strong>
+- Evoluir para um papel de <strong>desenvolvedor fullstack</strong>, unindo <strong>backend Java</strong> com <strong>frontend Angular</strong>
 
 ---
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-cichocki)  
-- E-mail: gabrielsamudiocichocki@gmail.com
-
----
-
-### “Grandes mudanças exigem grandes decisões — e estou pronto para dar esse próximo passo.” 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-cichocki" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-Gabriel%20Chicoski-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:gabrielsamudiocichocki@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-gabrielsamudiocichocki@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
