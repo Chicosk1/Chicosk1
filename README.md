@@ -30,6 +30,9 @@ Apesar de gostar da programação e dos desafios que enfrento, estou em <strong>
       💻 Delphi <br/>
       🛢️ Oracle SQL <br/>
       🗂️ Git / GitHub <br/>
+      🌐 HTML <br/>
+      🎨 CSS <br/>
+      ⚡ JavaScript <br/>
       🐍 Python (scripts)
     </td>
     <td align="center">
@@ -84,6 +87,9 @@ While I enjoy programming and solving business problems, I'm currently making a 
       💻 Delphi <br/>
       🛢️ Oracle SQL <br/>
       🗂️ Git / GitHub <br/>
+      🌐 HTML <br/>
+      🎨 CSS <br/>
+      ⚡ JavaScript <br/>
       🐍 Python (scripts)
     </td>
     <td align="center">
