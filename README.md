@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Gabriel Chicoski</h1>
 
-<p align="center">🎯 Desenvolvedor FullStack / Developer FullStack</p>
+<p align="center">🎯 Desenvolvedor FullStack / FullStack Developer</p>
 
 ---
 
